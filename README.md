@@ -51,7 +51,3 @@ Gateway ICT Polytechnic Saapade, Ogun State, Nigeria
 - Streamlit
 - google-generativeai
 - python-dotenv
-
-## License
-
-MIT (or specify your license)
